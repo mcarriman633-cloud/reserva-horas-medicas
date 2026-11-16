@@ -1,0 +1,11 @@
+.env
+.env.*
+!.env.example
+
+*.log
+*.pem
+*.key
+
+.vscode/
+.DS_Store
+Thumbs.db
